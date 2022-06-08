@@ -1,4 +1,4 @@
-## Welcome to Bedwars Boosting
+## Welcome to Bedwars Boosting - The home of boosting.
 
 Ever wanted to get wins easily? You're at the right place!
 
