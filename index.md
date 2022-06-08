@@ -4,12 +4,17 @@ Ever wanted to get wins easily? You're at the right place!
 
 Scroll down for pricing, and the Discord server!
 
+__________________________________________________________
+
+
 ## Our Discord Server
 Want to join our Discord server? Do you want to boost people or get boosted? Well, this is for you!
 [Join the server here!](https://discord.gg/hUCrRJQy4V)
 
-## Prices
+__________________________________________________________
 
+
+## Prices
 Here are the prices, join the [Discord](https://discord.gg/hUCrRJQy4V) for explanation on prices in #FAQ, you get a discount for bulk orders.
 
 ### Winstreak boosting
@@ -40,6 +45,9 @@ Simple want to get your amount of wins up easily? Well, this is for you!
 100 wins: 950 Robux (9.5 Robux per win)
 200 wins: 1800 Robux (9 Robux per win)
 250+ wins: 8.5 Robux per win
+
+__________________________________________________________
+
 
 ## Support or Contact
 
