@@ -1,4 +1,5 @@
-## Welcome to Bedwars Boosting - The home of boosting.
+# Bedwars Boosting
+## Where boosting has never been easier
 
 Ever wanted to get wins easily? You're at the right place!
 
@@ -7,14 +8,14 @@ Scroll down for pricing, and the Discord server!
 __________________________________________________________
 
 
-## Our Discord Server
+# Our Discord Server
 Want to join our Discord server? Do you want to boost people or get boosted? Well, this is for you!
 [Join the server here!](https://discord.gg/hUCrRJQy4V)
 
 __________________________________________________________
 
 
-## Prices
+# Prices
 Here are the prices, join the [Discord](https://discord.gg/hUCrRJQy4V) for explanation on prices in #FAQ, you get a discount for bulk orders.
 
 ### Winstreak boosting
@@ -49,9 +50,9 @@ Simple want to get your amount of wins up easily? Well, this is for you!
 __________________________________________________________
 
 
-## Support or Contact
+# Support or Contact
 
 Need support or don't understand? Contact the staff!
 STAFF DISCORD ACCOUNTS:
-# eggg#5231 - OWNER
-# prim#4466 - OWNER
+### eggg#5231 - OWNER
+### prim#4466 - OWNER
